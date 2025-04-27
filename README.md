@@ -48,4 +48,4 @@
 
 ---
 
-Com isso, sua máquina virtual estará pronta para uso! Se precisar de ajuda adicional, sinta-se à vontade para perguntar.
+ 
